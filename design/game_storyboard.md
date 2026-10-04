@@ -1,31 +1,26 @@
 # Project One Storyboard | Text-Based Adventure Game
 
-> Complete the `TODO:` prompts using your own game idea. This file is a graded
-> Project One deliverable and later becomes a reference for Project Two.
-
 ## Theme and Storyline
 
 **Theme:**
 
-TODO: Name and briefly describe your game's theme.
+Fantasy Dungeon Game The Depths of Hyrule Castle
 
 **Storyline:**
-
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
+You are a legendary adventurer exploring Castle Hyrule, a once-magnificent fortress that has been completely swallowed by dark forces and overrun by aggressive shadow monsters. To cleanse the keep and escape alive, your goal is to safely navigate the treacherous, labyrinthine layout of the dungeon to locate 6 hidden magical relics Including the Master Sword. Once all items are safely in your inventory, you must use their combined, awakened power to face and slay the Giant Shadow Dragon lurking inside the Dragon's Lair. Entering the final chamber before gathering all 6 items will leave you entirely unprotected.
 
 ## Rooms
 
 Project One requires a minimum of eight rooms.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
+1. Great Hall Start room
+2. Armory Room
+3. Alchemist Room
+4. Grand Library Room
+5. Wizards Tower Room
+6. Treasure Vault Room
+7. Royal Room
+8. Dragon's Lair Villain room
 
 Add more rooms if your design needs them.
 
@@ -34,34 +29,16 @@ Add more rooms if your design needs them.
 With the minimum eight-room design, Project One requires at least six items.
 Every room except the start room and villain room must contain one item.
 
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
+1. Julian Enchanted shield Item
+2. Elixir Item
+3. Ancient Magic Spell Book Item
+4. Staff of Elements Item
+5. Golden Ring Item
+6. Master Sword Item
 
 If you add rooms beyond the minimum, add an item for every additional room
 except the start room and villain room.
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
-
-## Storyboard and Map Check
-
-Before submitting, compare this storyboard with `game_map.drawio`.
-
-* [ ] I included eight (8) rooms.
-* [ ] I included six (6) collectable items.
-* [ ] The start room has no item.
-* [ ] The villain room has no item.
-* [ ] Every room except the start room and villain room contains one item.
-* [ ] Room, item, and villain names match my map.
-* [ ] The map allows the player to collect all required items before the
-  villain is encountered.
-
-## Project Two Handoff
-
-Keep this file after Project One. In Module Seven, use these names and design
-choices when building the final room/item dictionary and player-facing output.
+Giant Dragon Gannon has acquired the triforce and is trying to destroy the castle, the hero must get the master sword and acquire all the items to defeat the dark dragon.
